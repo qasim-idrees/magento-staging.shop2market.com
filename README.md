@@ -1,0 +1,1 @@
+# magento-staging.shop2market.com
